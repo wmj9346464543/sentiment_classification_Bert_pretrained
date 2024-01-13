@@ -1,0 +1,2 @@
+# sentiment_classification_Bert_pretrained
+使用bert预训练模型进行情感分类
